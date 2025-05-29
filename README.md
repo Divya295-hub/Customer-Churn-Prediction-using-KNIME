@@ -24,6 +24,7 @@ Result: Logistic Regression achieved the highest accuracy, making it the optimal
 </ul>
 
 ## 📎 Dataset
+<a href="https://github.com/Divya295-hub/Customer-Churn-Prediction-using-KNIME/blob/main/Telco_Customer_Churn.xlsx">Telco Customer Churn Dataset</a>
 
 ## 🛠️ Tools & Techniques
 <ul>
