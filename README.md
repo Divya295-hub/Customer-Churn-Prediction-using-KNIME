@@ -29,6 +29,19 @@ Result: Logistic Regression achieved the highest accuracy, making it the optimal
   <li>Techniques: Supervised learning, Classification, EDA, Visualization</li>
   <li>Models: Logistic Regression, Random Forest, XGBoost</li>
   <li>Visualization: Boxplots, Pie charts, Bar charts</li>
+</ul>
 
 ## 📎 Dataset
 <a href="https://github.com/Divya295-hub/Customer-Churn-Prediction-using-KNIME/blob/main/Telco_Customer_Churn.xlsx">Telco Customer Churn Dataset</a>
+
+## ✅ Recommendations
+<p>
+  Based on model insights and EDA, the following recommendations were made:<br>
+<ul>
+  <li>Reward long-tenured customers through loyalty programs to incentivize continued engagement.</li>
+  <li>Proactively contact customers with high monthly charges and offer tailored packages or discounts to reduce churn risk.</li>
+  <li>Target month-to-month contract users with incentives to switch to longer-term plans.</li>
+  <li>Improve customer support quality and responsiveness, especially for early-tenure customers, to prevent premature churn.</li>
+  <li>Use churn prediction scores in campaigns to prioritize outreach to high-risk segments.</li>
+</ul>
+</p>
